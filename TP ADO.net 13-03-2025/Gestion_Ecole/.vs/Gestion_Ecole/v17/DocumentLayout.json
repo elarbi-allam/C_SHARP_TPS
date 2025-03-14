@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\gestion_ecole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\gestion_ecole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\daoeleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\daoeleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|d:\\ensat\\ensat_2024-2025\\mes enseignements\\c#\\projets\\gestion_ecole\\gestion_ecole\\iconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\iconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gestion_Ecole",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Gestion_Ecole.csproj",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Gestion_Ecole.csproj",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Gestion_Ecole.csproj",
+              "RelativeToolTip": "Gestion_Ecole\\Gestion_Ecole.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:21:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Form1.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Form1.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Form1.cs",
+              "RelativeToolTip": "Gestion_Ecole\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAywA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:51:46.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eleve.cs",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Eleve.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Eleve.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Eleve.cs",
+              "RelativeToolTip": "Gestion_Ecole\\Eleve.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAywCYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:47:38.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\IDAO.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\IDAO.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\IDAO.cs",
+              "RelativeToolTip": "Gestion_Ecole\\IDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:43:02.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Connexion.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Connexion.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Connexion.cs",
+              "RelativeToolTip": "Gestion_Ecole\\Connexion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:24:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOEleve.cs",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\DAOEleve.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\DAOEleve.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\DAOEleve.cs",
+              "RelativeToolTip": "Gestion_Ecole\\DAOEleve.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAywCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:06:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IConnexion.cs",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\IConnexion.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\IConnexion.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\IConnexion.cs",
+              "RelativeToolTip": "Gestion_Ecole\\IConnexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:12:40.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Form1.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Form1.cs",
+              "ToolTip": "D:\\ENSAT\\ENSAT_2024-2025\\Mes enseignements\\C#\\Projets\\Gestion_Ecole\\Gestion_Ecole\\Form1.cs [Conception]",
+              "RelativeToolTip": "Gestion_Ecole\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:11:46Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
