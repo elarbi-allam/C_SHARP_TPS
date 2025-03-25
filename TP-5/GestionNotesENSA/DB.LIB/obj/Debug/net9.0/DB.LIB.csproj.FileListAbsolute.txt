@@ -1,0 +1,13 @@
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\bin\Debug\net9.0\DB.LIB.deps.json
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\bin\Debug\net9.0\DB.LIB.dll
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\bin\Debug\net9.0\DB.LIB.pdb
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.csproj.AssemblyReference.cache
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.AssemblyInfoInputs.cache
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.AssemblyInfo.cs
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.csproj.CoreCompileInputs.cache
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.sourcelink.json
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.dll
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\refint\DB.LIB.dll
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\DB.LIB.pdb
+C:\Users\ELARBI\Desktop\C_SHARP_TPS\TP-5\GestionNotesENSA\DB.LIB\obj\Debug\net9.0\ref\DB.LIB.dll
